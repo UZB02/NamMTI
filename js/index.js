@@ -8,6 +8,10 @@ const three = document.querySelector('.three')
 const marCon = document.querySelector('.marCont')
 const m1 = document.querySelector('.m1')
 const box1 = document.querySelector('.box1')
+
+
+
+
 const m2 = document.querySelector('.m2')
 const box2 = document.querySelector('.box2')
 const m3 = document.querySelector('.m3')
